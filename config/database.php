@@ -1,9 +1,9 @@
 <?php
 // إعدادات قاعدة البيانات
-define('DB_HOST', 'sql106.infinityfree.com');
-define('DB_NAME', 'if0_43413132_busbooking');
-define('DB_USER', 'if0_43413132');
-define('DB_PASS', 'P9A6UyrA6GZQh');
+define('DB_HOST', 'localhost');
+define('DB_NAME', 'sudan_bus_booking');
+define('DB_USER', 'root');
+define('DB_PASS', '');
 
 class Database {
     private $host = DB_HOST;
